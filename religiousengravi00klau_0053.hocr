@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./religiousengravi00klau_0053.png"; bbox 0 0 1892 2963; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 904 29 958 62">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 904 29 958 62">
+     <span class='ocr_line' id='line_1_1' title="bbox 904 29 958 62; baseline -0.019 0"><span class='ocrx_word' id='word_1_1' title='bbox 904 29 958 62; x_wconf 72' lang='lat'>15</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 194 117 1690 186">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 194 117 1690 186">
+     <span class='ocr_line' id='line_1_2' title="bbox 194 117 1690 186; baseline -0.011 -5"><span class='ocrx_word' id='word_1_2' title='bbox 194 128 416 181; x_wconf 47' lang='lat' dir='ltr'>(It-ulus</span> <span class='ocrx_word' id='word_1_3' title='bbox 437 148 563 179; x_wconf 84' lang='lat' dir='ltr'>non</span> <span class='ocrx_word' id='word_1_4' title='bbox 587 120 883 181; x_wconf 60' lang='lat' dir='ltr'>vidrtsnec</span> <span class='ocrx_word' id='word_1_5' title='bbox 906 119 1079 174; x_wconf 73' lang='lat' dir='ltr'>auris</span> <span class='ocrx_word' id='word_1_6' title='bbox 1104 117 1344 171; x_wconf 61' lang='lat' dir='ltr'>audivit</span> <span class='ocrx_word' id='word_1_7' title='bbox 1362 138 1479 169; x_wconf 81' lang='lat' dir='ltr'>nec</span> <span class='ocrx_word' id='word_1_8' title='bbox 1496 137 1561 166; x_wconf 80' lang='lat' dir='ltr'>n]</span> <span class='ocrx_word' id='word_1_9' title='bbox 1580 132 1690 186; x_wconf 52' lang='grc' dir='ltr'>(ζωῇ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 200 181 1681 335">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 200 181 1681 334">
+     <span class='ocr_line' id='line_1_3' title="bbox 200 181 1681 263; baseline -0.011 -17"><span class='ocrx_word' id='word_1_10' title='bbox 200 192 451 246; x_wconf 72' lang='lat'>11011111118</span> <span class='ocrx_word' id='word_1_11' title='bbox 477 186 772 248; x_wconf 65' lang='lat' dir='ltr'>ascendit</span> <span class='ocrx_word' id='word_1_12' title='bbox 784 208 916 260; x_wconf 67' lang='lat' dir='ltr'>qua?</span> <span class='ocrx_word' id='word_1_13' title='bbox 927 187 1296 263; x_wconf 67' lang='lat' dir='ltr'>praepm‘avi’t·</span> <span class='ocrx_word' id='word_1_14' title='bbox 1307 181 1501 232; x_wconf 76' lang='lat' dir='ltr'>Deus</span> <span class='ocrx_word' id='word_1_15' title='bbox 1481 182 1559 231; x_wconf 78' lang='lat' dir='ltr'>1is</span> <span class='ocrx_word' id='word_1_16' title='bbox 1585 198 1681 248; x_wconf 75' lang='lat' dir='ltr'>qm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 538 252 1340 335; baseline -0.009 -30"><span class='ocrx_word' id='word_1_17' title='bbox 538 253 788 335; x_wconf 61' lang='lat' dir='ltr'><strong>dfligunt</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 806 252 1340 311; x_wconf 74' lang='lat' dir='ltr'>1flum.1.C01-...2v9</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 154 364 1738 2889">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 154 364 1738 2889">
+     <span class='ocr_line' id='line_1_5' title="bbox 154 364 1738 2889; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 154 364 1738 2889; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
